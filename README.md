@@ -84,12 +84,12 @@ roles in resume projects:
 If the resume project is "dynamic and interactive" (for example, by clicking to switch content or expand and collapse modules), Vue can be used to simplify UI construction and data binding.
 
 
-2.JavaScript
+2. JavaScript
 Purpose: To implement the interactive functions of the page.
 Role in resume projects:
 Control buttons, click events, scroll effects, or dynamic data rendering (such as work experience or project lists loaded via JavaScript).
 
-3.HTML5
+3. HTML5
 Purpose: To define the structure and semantics of web pages.
 Role in resume projects:
 Construct a basic page structure such as titles, paragraphs, images, hyperlinks, lists, etc.
@@ -100,7 +100,7 @@ Role in resume projects:
 Control colors, fonts, spacing, and layout to make the resume page look professional and aesthetically pleasing.
 Achieving responsive support for different devices.
 
-5.CSS (Extended Syntax for SASS)
+5. CSS (Extended Syntax for SASS)
 Purpose: To make CSS more structured, such as supporting advanced features like variables, nesting, and mixing.
 Role in resume projects:
 To organize styles more efficiently, such as unifying color variables and component style reuse.
